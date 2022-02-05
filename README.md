@@ -1,3 +1,3 @@
 # My-Mac15
 
-Learning git
+Learning git to know git
